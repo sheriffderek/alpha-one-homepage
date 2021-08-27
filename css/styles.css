@@ -12,6 +12,16 @@ body {
    padding: 20px;
 }
 
+inner-column {
+  display:  block;
+  max-width: 1100px;
+  margin-right: auto;
+  margin-left: auto;
+  line-height: 2; /* WHY ? */
+  letter-spacing: 0.03em; /* WHY ? */
+  padding: 10px; 
+}
+
 .inner-column {
   display: flex;
   flex-direction: column;
