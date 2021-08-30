@@ -1,5 +1,5 @@
 
-
+//student database
 var studentsSiteData = [
 	{
 		userName: 'sheriffderek',
@@ -7,19 +7,17 @@ var studentsSiteData = [
 		siteTeaser: 'The Place to go - to see all the nare-bones assignment solutions',
 		linkText: 'Engage',
 		name: 'Derek Wood',
-		siteLink: ''
+		siteLink: 'https://peprojects.dev/alpha-1/sheriffderek/'
 
 	},
-
 	{
 		userName: 'ivy',
 		siteName: 'Ivy Reynolds Studio',
 		siteTeaser: '',
 		linkText: 'Enter',
 		name: 'Ivy Reynolds',
-		siteLink: '',
+		siteLink: 'https://peprojects.dev/alpha-1/ivy/',
 	},
-
 	{
 		userName: 'alexvong',
 		siteName: `AOL (Alex On-Line)`,
@@ -28,7 +26,6 @@ var studentsSiteData = [
 		name: 'Alex Vong',
 		siteLink: 'https://peprojects.dev/alpha-1/alexvong/',
 	},
-
 	{
 		userName: 'dmccall',
 		siteName: 'Derek McCall',
@@ -36,7 +33,6 @@ var studentsSiteData = [
 		linkText: "Let's Go",
 		name: 'Derek McCall',
 		siteLink: 'https://peprojects.dev/alpha-1/dmccall/'
-
 	},
 	{
 		userName: 'tommylee',
@@ -46,7 +42,6 @@ var studentsSiteData = [
 		name: 'Tommy Lee',
 		siteLink: 'https://peprojects.dev/alpha-1/tommylee/'
 	},
-
 	{
 		userName: 'jevohntyler',
 		siteName: `@jevohntyler`,
@@ -63,7 +58,6 @@ var studentsSiteData = [
 		name: 'John Maniquis',
 		siteLink: 'https://peprojects.dev/alpha-1/johnxm/'
 	},
-
 	{
 		userName: 'Jhunt',
 		siteName: 'Concrete Jungle',
@@ -72,8 +66,6 @@ var studentsSiteData = [
 		name: 'Jesse Hunter',
 		siteLink: 'https://peprojects.dev/alpha-1/Jhunt/'
 	},
-
-
 	{
 		userName: 'mprizzuto',
 		siteName: `Marco Rizzuto`,
